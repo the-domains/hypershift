@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[hypershift]]></title>
         <description><![CDATA[hypershift]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hypershift/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 18 Jun 2016 23:26:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/hypershift/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[REALITY EDITOR]]></title>
+            <description><![CDATA[<article><h1>REALITY EDITOR</h1><p>The Reality Editor is a new kind of tool for empowering you to connect and manipulate the functionality of physical objects. Just point the camera of your smartphone at an object and its invisible capabilities will become visible for you to edit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6e2196cea6c89bbb5d414d774cd65cd/croprotate.jpg?cropheight=821&cropwidth=1920&degrees=0&input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F546887909_1920x1080.jpg&x=0&y=131"></article>]]></description>
+            <link>https://vimeo.com/143709971</link>
+            <guid isPermaLink="false">ff131fa9-a77b-4d30-9884-230dc4831fa4</guid>
+            <pubDate>Sat, 18 Jun 2016 23:26:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HYPER-REALITY]]></title>
             <description><![CDATA[<article><h1>HYPER-REALITY</h1><p>Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d0212679f80126c9d08d84fc46b3a1a/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F571534199_1920x1080.jpg"></article>]]></description>
