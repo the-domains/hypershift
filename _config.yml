@@ -12,3 +12,7 @@ color:
     - '#3E606F'
     - '#193441'
 name: hypershift
+author:
+  name: Thomaz Krause
+  email: thomazkrause@gmail.com
+  url: hypershift.com.br
