@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hypershift]]></title>
+        <description><![CDATA[hypershift]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 23:26:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HYPER-REALITY]]></title>
+            <description><![CDATA[<article><h1>HYPER-REALITY</h1><p>Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d0212679f80126c9d08d84fc46b3a1a/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F571534199_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/166807261</link>
+            <guid isPermaLink="false">f3437bbe-52ba-460b-8e43-98c4ce4dd5d7</guid>
+            <pubDate>Sat, 18 Jun 2016 23:26:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
